@@ -10,3 +10,4 @@ function creatTable(){
             y.innerHTML="Row-"+r+"Column-"+c;
         }
     }
+}
